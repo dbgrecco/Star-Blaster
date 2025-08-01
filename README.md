@@ -27,25 +27,13 @@ Prepare-se para uma emocionante jornada espacial neste jogo 2D de nave, criado c
 *   **Pygame**: Biblioteca essencial para gráficos, áudio e interatividade.
 
 ## Como Rodar o Jogo
+*
+    ```bash
+(https://github.com/dbgrecco/Star-Blaster)
+    ```
 
-Para jogar "Nave Espacial" em seu computador:
-
-1.  **Clone o Repositório:**
-    ```bash
-    git clone https://github.com/LucasS059/Jogo_2D_Nave_Em_Python.git
-    ```
-2.  **Navegue até o Diretório:**
-    ```bash
-    cd Jogo_2D_Nave_Em_Python
-    ```
-3.  **Instale o Pygame:**
-    Certifique-se de ter o Python instalado. Em seguida, instale a biblioteca Pygame:
-    ```bash
-    pip install pygame
-    ```
 4.  **Execute o Jogo:**
-    ```bash
-    python Jogo_Nave3_1.py
+    
     ```
 
 ## Contribuições
